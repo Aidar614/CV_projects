@@ -1,0 +1,7 @@
+mmcv==2.0.0rc4
+mmdet==3.3.0
+mmengine==0.9.1
+torch==2.4.0
+torchvision==0.16.0  
+torchaudio==2.0.0    
+pytorch-cuda==12.4           
