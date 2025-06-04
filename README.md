@@ -6,7 +6,7 @@ My projects on machine learning and computer vision are collected here
 
 - [AI football game(detection, tracking, position mapping)](./AI_Football_Game)
 
-- [Image Retrieval with FAISS and DaViT](./Image_Retrieval.ipynb")
+- [Image Retrieval with FAISS and DaViT](./Image_Retrieval.ipynb)
 
 - [Latent Diffusion Generation with LookViT Transformer](./Latent_Diffusion_Generation_with_LookViT_Transformer)
 
