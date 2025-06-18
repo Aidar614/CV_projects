@@ -8,6 +8,8 @@ My projects on machine learning and computer vision are collected here
 
 - [Image Retrieval with FAISS and DaViT](./Image_Retrieval.ipynb)
 
+- [Signature verification with Quadruplet Loss](./Signature_Verification.ipynb)
+
 - [Latent Diffusion Generation with LookViT Transformer](./Latent_Diffusion_Generation_with_LookViT_Transformer)
 
 - [Transformer image captioning model](./Transformer_Image_Captioning)  

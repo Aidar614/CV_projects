@@ -6,4 +6,4 @@ The code detects and tracks the ball and the players, divides them into teams an
 
 ![Output Frame](./results/output_frame.jpg)
 
-![Result GIF](./results/result.gif)
+<img src="./results/result.gif" alt="Loading gif..." title="Loading gif..." />
