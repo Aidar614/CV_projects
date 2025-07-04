@@ -4,6 +4,8 @@ My projects on machine learning and computer vision are collected here
 
 - [The Russian handwriting recognition model](./handwriting_recognition)  
 
+- [Shoplifting Detection Using a Video Classifier](./Shoplifting_Detection.ipynb)  
+
 - [AI football game(detection, tracking, position mapping)](./AI_Football_Game)
 
 - [Image Retrieval with FAISS and DaViT](./Image_Retrieval.ipynb)
