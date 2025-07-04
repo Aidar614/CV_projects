@@ -11,21 +11,19 @@ The system integrates with the YOLO object detector, which finds and tracks peop
 ## ✅ Results: Shoplifting Detected
 <table>
   <tr>
-    <td><video src="./test_1_1.mp4" controls width="500"></td>
-    <td><video src="./test_6_6.mp4" controls width="500"></td>
+    <td><img src="./test_1_1.gif" width="500"></td>
+    <td><img src="./test_6_6.gif" width="500"></td>
   </tr>
-</table>
-<table>
   <tr>
-    <td><video src="./test_7_7.mp4" controls width="500"></td>
-    <td><video src="./test_4_4.mp4" controls width="200"></td>
+    <td><img src="./test_7_7.gif" width="500"></td>
+    <td><img src="./test_4_4.gif" width="500"></td>
   </tr>
 </table>
 
 ## 🤔 Challenging Case: Placing Items in a Basket
 <table>
   <tr>
-    <td><video src="./test_2_2.mp4" controls width="500"></td>
-    <td><video src="./test_3_3.mp4" controls width="500"></td>
+    <td><img src="./test_2_2.gif" width="500"></td>
+    <td><img src="./test_3_3.gif" width="500"></td>
   </tr>
 </table>
