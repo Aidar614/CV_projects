@@ -4,16 +4,9 @@ My projects on machine learning and computer vision are collected here
 
 - [The Russian handwriting recognition model](./handwriting_recognition)  
 
-<table>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 10px;">
-      <img src="./handwriting_recognition/batch_predictions/batch_2.png" alt="handwriting_1" style="max-width: 500px;">
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px;">
-      <img src="./handwriting_recognition/batch_predictions/batch_3.png" alt="handwriting_2" style="max-width: 500px;">
-    </td>
-  </tr>
-</table>
+<div style="border: 1px solid #ddd; padding: 10px; margin: 10px 0; display: inline-block;">
+  <img src="./handwriting_recognition/batch_predictions/batch_2.png" alt="handwriting_1" style="max-width:800px;">
+</div>
 
 - [Shoplifting Detection Using a Video Classifier](./Shoplifting)  
 
